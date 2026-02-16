@@ -1,0 +1,16 @@
+blinker        
+cffi           
+click          
+cryptography   
+DateTime       
+Flask          
+itsdangerous   
+Jinja2        
+jwt            
+MarkupSafe     
+pip            
+pycparser      
+pytz           
+Werkzeug       
+zope.interface  
+
