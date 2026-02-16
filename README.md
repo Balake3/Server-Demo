@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 
 
-#AI prompts Used
+# AI prompts Used
 This tool only supports a JWT that uses the JWS Compact Serialization, which must have three base64url-encoded segments separated by two period ('.') characters as defined 
 
 best way to set up kid  
