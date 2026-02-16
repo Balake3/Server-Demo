@@ -99,4 +99,5 @@ if __name__ == "__main__":
  # This tool only supports a JWT that uses the JWS Compact Serialization, which must have three base64url-encoded segments separated by two period ('.') characters as defined
 # best way to set up kid
  # write the flask app so it does A RESTful JWKS endpoint that serves the public keys
+    #write a test file
   #fix failed to extract response via extractor function: invalid TTP status code: 404
